@@ -1,4 +1,4 @@
-# firstChekpoint
+# preparationForMyFirstChekpoint
 Some practice with newly acquired concepts.
 
 Design a FootballPlayer class that has the following attributes:
